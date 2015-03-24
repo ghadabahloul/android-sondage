@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout
+END
+inscription.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/inscription.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/PFESondages/!svn/ver/19/trunk/Sondage_App/res/layout/main.xml
+END
+authentification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/authentification.xml
+END
+compteconnecte.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/compteconnecte.xml
+END
+profil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/profil.xml
+END
+single_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/single_list_item.xml
+END
+historique.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/historique.xml
+END
+compte.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/compte.xml
+END
+reponse_succes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/reponse_succes.xml
+END
+updateprofil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/updateprofil.xml
+END
+propos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/propos.xml
+END
+sondage_activity_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/sondage_activity_layout.xml
+END
+sondage_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/sondage_type.xml
+END
+sondage_spec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/sondage_spec.xml
+END
+homeact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/PFESondages/!svn/ver/16/trunk/Sondage_App/res/layout/homeact.xml
+END
+list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/PFESondages/!svn/ver/16/trunk/Sondage_App/res/layout/list_item.xml
+END
+main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/PFESondages/!svn/ver/43/trunk/Sondage_App/res/layout/main_activity.xml
+END
+radio_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PFESondages/!svn/ver/19/trunk/Sondage_App/res/layout/radio_button.xml
+END

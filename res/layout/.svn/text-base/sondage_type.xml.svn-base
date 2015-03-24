@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Choisir type de sondage"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Spinner
+        android:id="@+id/spinnertype"
+        android:layout_width="290dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="25dip" />
+
+    <Button
+        android:id="@+id/btncontinuer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dip"
+        android:layout_marginTop="25dip"
+         android:background="@drawable/btn_bluee"
+         android:textStyle="bold"
+         
+        android:text="Continuer" />
+
+</LinearLayout>

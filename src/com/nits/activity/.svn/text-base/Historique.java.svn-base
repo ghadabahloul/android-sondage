@@ -1,0 +1,26 @@
+package com.nits.activity;
+
+
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+
+public class Historique extends Activity {
+	@Override
+		
+	
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		View viewToLoad = LayoutInflater.from(this.getParent()).inflate(R.layout.historique, null);
+		this.setContentView(viewToLoad); 
+		
+	
+	}
+	
+	
+}
+
+

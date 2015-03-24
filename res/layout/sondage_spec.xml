@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="130dip">
+      <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textSize="20dip"
+        android:layout_marginRight="20dip"
+        android:layout_marginLeft="5dip"
+        android:text="Entreprise" />
+
+        <Spinner
+            android:id="@+id/spinnerEntreprise"
+            android:layout_width="202dp"
+            android:layout_height="57dp"
+           />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dip" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="53dip"
+            android:text="Article"
+            android:textColor="#ffffff"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/spinnerArticle"
+            android:layout_width="202dp"
+            android:layout_height="57dp" />
+
+    </LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="25dip" >
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:layout_marginRight="22dip"
+        android:text="Reference"
+        android:textColor="#ffffff"
+        android:textSize="20dip"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinnerreference"
+        android:layout_width="156dp"
+        android:layout_height="57dp"
+        android:layout_weight="0.40" />
+</LinearLayout>
+    
+    <Button
+        android:id="@+id/btnParticiper"
+        
+        android:text="Participer"
+        android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+             android:background="@drawable/btn_bluee"
+            android:textSize="20dip"
+             android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- titre sondage Label -->
+
+    <TextView
+        android:id="@+id/titre_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Titre Sondage"
+        android:textColor="#acacac"
+        android:textStyle="bold" 
+        android:textSize="25dp"/>
+
+    <!-- Description Label -->
+
+    <TextView
+        android:id="@+id/dlabel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.04"
+        android:text="Description Sondage"
+        android:textColor="#acacac"
+        android:textSize="20sp" />
+
+    <!-- Points Label -->
+
+        <TextView
+            android:id="@+id/description_label"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.60"
+            android:maxLines="10"
+            android:singleLine="false"
+            android:text="Description"
+            android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Points"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/points_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Points"
+        android:textStyle="bold" />
+
+    <!-- questions Label -->
+
+    <Button
+        android:id="@+id/Participate_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_bluee"
+        android:text="Participer" 
+        android:layout_gravity="bottom"/>
+
+</LinearLayout>

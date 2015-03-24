@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PFESondages/!svn/ver/41/trunk/Sondage_App/src/com/nits/activity
+END
+CompteGroupActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PFESondages/!svn/ver/20/trunk/Sondage_App/src/com/nits/activity/CompteGroupActivity.java
+END
+HomeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PFESondages/!svn/ver/16/trunk/Sondage_App/src/com/nits/activity/HomeActivity.java
+END
+Sondage_spec.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PFESondages/!svn/ver/41/trunk/Sondage_App/src/com/nits/activity/Sondage_spec.java
+END
+Sondage_Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/Sondage_Type.java
+END
+ProfilActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/ProfilActivity.java
+END
+ConnectionDetector_Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PFESondages/!svn/ver/16/trunk/Sondage_App/src/com/nits/activity/ConnectionDetector_Activity.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PFESondages/!svn/ver/39/trunk/Sondage_App/src/com/nits/activity/MainActivity.java
+END
+SondageSingleItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/SondageSingleItem.java
+END
+Propos.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/PFESondages/!svn/ver/19/trunk/Sondage_App/src/com/nits/activity/Propos.java
+END
+ConnectionDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PFESondages/!svn/ver/16/trunk/Sondage_App/src/com/nits/activity/ConnectionDetector.java
+END
+SondageGroupActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PFESondages/!svn/ver/35/trunk/Sondage_App/src/com/nits/activity/SondageGroupActivity.java
+END
+Compte.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/Compte.java
+END
+ReponseSucces.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/ReponseSucces.java
+END
+Historique.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/Historique.java
+END
+SondageActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/SondageActivity.java
+END
+CompteConnecte.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/PFESondages/!svn/ver/16/trunk/Sondage_App/src/com/nits/activity/CompteConnecte.java
+END
+SondageListe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/SondageListe.java
+END
+TabGroupActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/TabGroupActivity.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/LoginActivity.java
+END
+UpdateActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/UpdateActivity.java
+END
+RegisterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PFESondages/!svn/ver/53/trunk/Sondage_App/src/com/nits/activity/RegisterActivity.java
+END
+HistoriqueGroupActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PFESondages/!svn/ver/21/trunk/Sondage_App/src/com/nits/activity/HistoriqueGroupActivity.java
+END

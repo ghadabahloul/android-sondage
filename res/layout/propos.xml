@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A Propos"
+        android:textColor="#000000"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PollNits, qu'est-ce que c'est ?" 
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="20dip"
+         android:layout_marginTop="25dip"
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+         android:layout_marginTop="30dip"
+         android:textColor="#ffffff"
+        android:text="PollNits est une application mobile de sondage. Elle est destinée aux petites entités qui veulent un moyen simple de faire des sondage dans n'importe quel domaine en restant maître de leurs données." />
+
+     
+    <Button
+        android:id="@+id/btnRetour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dip"
+        android:background="@drawable/btn_bluee"
+        android:text="Retour vers la liste des sondages"
+        android:textStyle="bold" />
+
+</LinearLayout>
